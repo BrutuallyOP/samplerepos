@@ -1,0 +1,1 @@
+echo "KR\$ign"
