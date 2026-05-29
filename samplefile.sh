@@ -1,1 +1,1 @@
-echo "KR\$ign"
+echo "hello world"
